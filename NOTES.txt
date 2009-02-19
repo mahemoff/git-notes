@@ -1,0 +1,6 @@
+FND wrangles kittens ..
+Robb1e makes tea ..
+
+$ git init
+
+now read on ..
